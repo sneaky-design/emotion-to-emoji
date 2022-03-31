@@ -1,0 +1,60 @@
+body{
+    text-align:center;
+    background-color: peru;
+}
+#title{
+    color:white;
+    background-color: orange;
+    height:100px;
+    width:250px;
+    font-size:20px;
+    border-width:10px ;
+    border-style:groove;
+    border-color:grey ;
+    border-radius: 50px;
+}
+b{
+    font-size: 25px;
+    font-family: 'League Spartan', sans-serif;
+}
+head{
+    font-family: 'League Spartan', sans-serif;
+}
+h2{
+    border-width: 10px;
+    border-style:groove;
+    border-color:grey;
+    color:yellow;
+    width:150px;
+    margin-left: 700px;
+}
+h3{
+    border-width: 10px;
+    border-style:groove;
+    border-color:grey;
+    color:yellow;
+    width:150px;
+    margin-left: 700px;
+}
+#capture{
+    color:white;
+    background-color: orange;
+    height:50px;
+    width:150px;
+    font-size:15px;
+    border-width:10px ;
+    border-style:groove;
+    border-color:grey ;
+    border-radius: 50px;
+}
+#emotion{
+    color:white;
+    background-color: orange;
+    height:50px;
+    width:150px;
+    font-size:15px;
+    border-width:10px ;
+    border-style:groove;
+    border-color:grey ;
+    border-radius: 50px;
+}
